@@ -4,7 +4,7 @@
     Primary completion rate is the percentage of female students completing the last year of primary school. It is calculated by taking the     total number of female students in the last grade of primary school, minus the number of repeaters in that grade, divided by the total     number of children of official graduation age. The ratio can exceed 100% due to over-aged and under-aged children who enter primary         school late/early and/or repeat grades. United Nations Educational, Scientific, and Cultural Organization (UNESCO) Institute for           Statistics.    
     The data in this file lists female_completion_rate in % for 275 countries for the years 1970 through 2011.
 
-<h4>male_completion_rate:</h4?
+<h4>male_completion_rate:</h4>
     Same as female_completion_rate, but for male students.
     The data in this file lists male_completion_rate in % for 275 countries for the years 1970 through 2011.
 
