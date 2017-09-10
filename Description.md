@@ -12,7 +12,7 @@
     The average number of years a newborn child would live if current mortality patterns were to stay the same.
     The data in this file lists life_expectancy in number of years for 244 countries for the years 1800 through 2013
 
-<h4>gpd_per_capita:</h4>
+<h4>gdp_per_capita:</h4>
     Gross Domestic Product per capita is presented in US$. The inflation but not the differences in the cost of living between countries       has been taken into account.
     The file lists data for 275 countries for the years 1960 through 2011
 
